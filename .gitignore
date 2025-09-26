@@ -60,7 +60,3 @@ htmlcov/
 
 # other
 .envrc
-
-# project-specific
-course/data_processing.ipynb
-project/data_processing.ipynb
