@@ -1,6 +1,15 @@
 # Github-Repository-AI-Agent
 
-# 🚀 Getting Started
+## 📋 Project Overview:
+This project demonstrates the creation of an AI Agent that can process and analyze content from GitHub repositories.
+
+### Key Features:
+ - Multi-format Data Pipeline: Downloads and processes various file types from GitHub repositories
+ - Code-aware Processing: Handles Python, SQL, Java files alongside markdown content
+ - Intelligent Content Extraction: Uses frontmatter parsing and content analysis
+ - RAG-ready Data Preparation: Prepares data for chunking and vector search
+
+## 🚀 Getting Started
 ### 1. Clone the repository
 ```
 git clone https://github.com/alexeygrigorev/data-engineering-rag.git
