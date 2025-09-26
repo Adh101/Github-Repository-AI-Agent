@@ -9,6 +9,13 @@ This project demonstrates the creation of an AI Agent that can process and analy
  - Intelligent Content Extraction: Uses frontmatter parsing and content analysis
  - RAG-ready Data Preparation: Prepares data for chunking and vector search
 
+### Supported File Types:
+ - Markdown files (.md, .mdx)
+ - Python scripts (.py)
+ - SQL files (.sql)
+ - Java files (.java)
+ - Jupyter notebooks (.ipynb)
+------------------------------
 ## 🚀 Getting Started
 ### 1. Clone the repository
 ```
